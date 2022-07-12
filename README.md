@@ -1,5 +1,7 @@
 # Gif Search and Collect App!
 
-Aplicación de ejercicio, creada con react v18, utilizando custom hooks, functional components, desarrollado en un entorno con Vite.
+Aplicación simple de ejercitación, creada con react v18 como desafío del curso de Fernando Herrera, utilizando api fetch (giphy API), custom hooks, functional components, prop types, desarrollado en un entorno con Vite.
 
 por Sebastián Kravetz
+
+![](https://media.giphy.com/media/h57GPmg7VQcnSOumtt/giphy.gif)
