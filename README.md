@@ -4,4 +4,4 @@ Aplicación simple de ejercitación, creada con react v18 como desafío del curs
 
 por Sebastián Kravetz
 
-![](https://media.giphy.com/media/h57GPmg7VQcnSOumtt/giphy.gif)
+![](screencap.gif)
